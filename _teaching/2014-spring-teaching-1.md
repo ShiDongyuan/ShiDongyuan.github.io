@@ -13,6 +13,7 @@ The course aims to provide comprehensive knowledge and demonstrations in embedde
 Textbook 
 ======
 This [document](../assets/EE4455_TEXTBOOK.pdf) provides information about the Embedded Systems course offered in academic year semester 2 at NTU. 
+
 Heading 2
 ======
 
