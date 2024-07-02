@@ -19,7 +19,14 @@ He is a senoir member of IEEE and the Signal Processing Society (SPS). Additiona
 
 Research Interesting
 ======
-My research focuses on several key areas in signal processing, including audio and adaptive signal processing, active noise control, array signal processing, high-speed digital signal processing system design, and using deep learning techniques in signal processing.
+<!-- My research focuses on several key areas in signal processing, including audio and adaptive signal processing, active noise control, array signal processing, high-speed digital signal processing system design, and using deep learning techniques in signal processing. -->
+My research focuses on several key areas in signal processing, including:
+
+- Audio and adaptive signal processing
+- Active noise control
+- Array signal processing
+- High-speed digital signal processing system design
+- Application of deep learning techniques in signal processing
 
 <!-- A data-driven personal website
 ======
