@@ -21,7 +21,7 @@ repository               : "ShiDongyuan/ShiDongyuan.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "SHI_DONGYUAN.png"
+  avatar           : "profile.png"
   name             : "Shi Dongyuan"
   pronouns         : # example: "she/her"  
   bio              : "Research Assistant Professor"
