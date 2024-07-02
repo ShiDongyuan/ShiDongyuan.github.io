@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "SHI DONGYUAN / Research Assitant Professor"
+title                    : "SHI DONGYUAN / RAP"
 title_separator          : "-"
 name                     : &name "Shi Dongyuan"
 description              : &description "personal description"
@@ -24,7 +24,7 @@ author:
   avatar           : "SHI_DONGYUAN.png"
   name             : "Shi Dongyuan"
   pronouns         : # example: "she/her"  
-  bio              : "RAP"
+  bio              : "Research Assitant Professor"
   location         : "Singapore"
   employer         : "Nanyang Technological University"
   uri              : # URL
