@@ -10,8 +10,7 @@ location: "Singapore"
 
 The course aims to provide comprehensive knowledge and demonstrations in embedded systems. It will introduce embedded system case studies and computations to estimate costs. Students will learn to program an embedded platform to apply theoretical concepts. The course covers topics such as embedded system design, architecture, processor selection, hardware/software, and media processing. Assessment includes a final exam, quizzes, demonstrations, and a project. Students are expected to complete all activities by due dates and participate in discussions.
 
-Textbook 
-======
+***Textbook***:
 This [document](../assets/EE4455_TEXTBOOK.pdf) provides information about the Embedded Systems course offered in academic year semester 2 at NTU. 
 
 Heading 2
