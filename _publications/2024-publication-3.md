@@ -7,7 +7,7 @@ date: 2024-4-14
 venue: 'ICASSP 2024-2024 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)'
 slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
 paperurl: 'https://arxiv.org/pdf/2402.09460'
-citation: 'Guo, Yu, Dongyuan Shi, Xiaoyi Shen, Junwei Ji, and Woon-Seng Gan. "A survey on adaptive active noise control algorithms overcoming the output saturation effect." Signal Processing (2024): 109525.'
+citation: 'Luo, Zhengding, Dongyuan Shi, Xiaoyi Shen, and Woon-Seng Gan. "Unsupervised learning based end-to-end delayless generative fixed-filter active noise control." In ICASSP 2024-2024 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), pp. 441-445. IEEE, 2024.'
 ---
 
 The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
